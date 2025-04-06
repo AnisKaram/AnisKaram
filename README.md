@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I'm currently working as a mid-level game developer/engineer, and in my free time, preparing and developing an exciting project.
+- 🔭 I'm currently working as a mid-level game developer/engineer, and in my free time, I'm preparing and developing an exciting project.
 - 🌱 I'm currently learning new topics in game development to enhance and improve my skills as a developer and game engineer.
 - 👯 I'm looking to collaborate on new, fresh, and exciting projects.
 - 📫 For collaborations, you can reach me on my linkedin: linkedin.com/in/anis-karam
